@@ -13,6 +13,8 @@
  2.For Windows
 
   using IDE : Codeblocks
+  
   Compile the file then Run
+  
    Password:blood
 
